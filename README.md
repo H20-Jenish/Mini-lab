@@ -1,4 +1,4 @@
-<img width="607" height="420" alt="Mini_Detection Lab" src="https://github.com/user-attachments/assets/758bdf53-eafe-42be-8890-58bba9d7a4c7" />
+<img width="607" height="420" alt="Mini_Detection Lab" src="https://github.com/user-attachments/assets/9495af93-eeb6-4f3a-8739-037a403add68" />
 
 ---
 ## 📖 Overview
