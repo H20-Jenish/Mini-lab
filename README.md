@@ -1,5 +1,7 @@
-## <img width="607" height="420" alt="Mini_Detection Lab" src="https://github.com/user-attachments/assets/758bdf53-eafe-42be-8890-58bba9d7a4c7" />
-📖 Overview
+<img width="607" height="420" alt="Mini_Detection Lab" src="https://github.com/user-attachments/assets/758bdf53-eafe-42be-8890-58bba9d7a4c7" />
+
+---
+## 📖 Overview
 
 This virtual environment is a purpose-built home laboratory designed for simulating cyberattacks, monitoring network traffic, and practicing Digital Forensics and Incident Response (DFIR). The lab utilizes a **pfSense** firewall to segment the network into distinct security zones, mirroring a real-world enterprise architecture.
 
